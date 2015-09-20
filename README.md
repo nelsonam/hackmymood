@@ -8,6 +8,6 @@ We believe that awareness is the first step to better mental health, and by educ
 
 APIs Used:
 
-IBM-Watson Alchemy API 
-Weather Underground 
-Twitter
+-IBM-Watson Alchemy API 
+-Weather Underground 
+-Twitter
